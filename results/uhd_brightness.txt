@@ -1,0 +1,1 @@
+n=30 teacher mean 0.370 gt mean 0.497 teacher darker on 27/30

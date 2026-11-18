@@ -1,0 +1,33 @@
+x2 r6_bgu_hvi-r5_bgu_rgb psnr_teacher: n=30 mean diff +0.0390  frac>0 0.73  wilcoxon p=3.1e-04
+x2 r6_bgu_hvi-r5_bgu_rgb ssim_teacher: n=30 mean diff +0.0003  frac>0 0.80  wilcoxon p=8.0e-04
+x2 r6_bgu_hvi-r5_bgu_rgb psnr_gt: n=30 mean diff -0.0009  frac>0 0.33  wilcoxon p=1.1e-01
+x2 r6_bgu_hvi-r5_bgu_rgb ssim_gt: n=30 mean diff -0.0003  frac>0 0.33  wilcoxon p=9.3e-03
+x2 r6_bgu_hvi-r5_bgu_rgb lpips_gt: n=30 mean diff +0.0003  frac>0 0.53  wilcoxon p=2.9e-01
+x2 r7_bgu_rgb_dn-r5_bgu_rgb psnr_teacher: n=30 mean diff -0.6970  frac>0 0.10  wilcoxon p=2.2e-04
+x2 r7_bgu_rgb_dn-r5_bgu_rgb ssim_teacher: n=30 mean diff -0.0312  frac>0 0.00  wilcoxon p=6.0e-05
+x2 r7_bgu_rgb_dn-r5_bgu_rgb psnr_gt: n=30 mean diff +0.0658  frac>0 0.67  wilcoxon p=8.9e-05
+x2 r7_bgu_rgb_dn-r5_bgu_rgb ssim_gt: n=30 mean diff +0.0390  frac>0 0.67  wilcoxon p=6.9e-05
+x2 r7_bgu_rgb_dn-r5_bgu_rgb lpips_gt: n=30 mean diff -0.0261  frac>0 0.00  wilcoxon p=8.9e-05
+x4 r6_bgu_hvi-r5_bgu_rgb psnr_teacher: n=30 mean diff +0.0341  frac>0 0.70  wilcoxon p=1.9e-04
+x4 r6_bgu_hvi-r5_bgu_rgb ssim_teacher: n=30 mean diff +0.0003  frac>0 0.67  wilcoxon p=2.6e-02
+x4 r6_bgu_hvi-r5_bgu_rgb psnr_gt: n=30 mean diff +0.0000  frac>0 0.43  wilcoxon p=6.9e-01
+x4 r6_bgu_hvi-r5_bgu_rgb ssim_gt: n=30 mean diff +0.0001  frac>0 0.47  wilcoxon p=8.9e-01
+x4 r6_bgu_hvi-r5_bgu_rgb lpips_gt: n=30 mean diff -0.0002  frac>0 0.43  wilcoxon p=2.9e-01
+x4 r7_bgu_rgb_dn-r5_bgu_rgb psnr_teacher: n=30 mean diff -0.3276  frac>0 0.03  wilcoxon p=1.2e-04
+x4 r7_bgu_rgb_dn-r5_bgu_rgb ssim_teacher: n=30 mean diff -0.0276  frac>0 0.03  wilcoxon p=1.0e-04
+x4 r7_bgu_rgb_dn-r5_bgu_rgb psnr_gt: n=30 mean diff +0.0430  frac>0 0.67  wilcoxon p=8.9e-05
+x4 r7_bgu_rgb_dn-r5_bgu_rgb ssim_gt: n=30 mean diff +0.0302  frac>0 0.67  wilcoxon p=8.9e-05
+x4 r7_bgu_rgb_dn-r5_bgu_rgb lpips_gt: n=30 mean diff -0.0265  frac>0 0.03  wilcoxon p=1.4e-04
+x8 r6_bgu_hvi-r5_bgu_rgb psnr_teacher: n=30 mean diff +0.0200  frac>0 0.60  wilcoxon p=9.2e-02
+x8 r6_bgu_hvi-r5_bgu_rgb ssim_teacher: n=30 mean diff -0.0005  frac>0 0.37  wilcoxon p=1.9e-01
+x8 r6_bgu_hvi-r5_bgu_rgb psnr_gt: n=30 mean diff +0.0023  frac>0 0.60  wilcoxon p=1.5e-01
+x8 r6_bgu_hvi-r5_bgu_rgb ssim_gt: n=30 mean diff +0.0021  frac>0 0.77  wilcoxon p=9.5e-04
+x8 r6_bgu_hvi-r5_bgu_rgb lpips_gt: n=30 mean diff -0.0022  frac>0 0.20  wilcoxon p=4.4e-05
+x8 r7_bgu_rgb_dn-r5_bgu_rgb psnr_teacher: n=30 mean diff -0.1872  frac>0 0.03  wilcoxon p=9.2e-05
+x8 r7_bgu_rgb_dn-r5_bgu_rgb ssim_teacher: n=30 mean diff -0.0222  frac>0 0.03  wilcoxon p=1.1e-04
+x8 r7_bgu_rgb_dn-r5_bgu_rgb psnr_gt: n=30 mean diff +0.0404  frac>0 0.63  wilcoxon p=1.2e-04
+x8 r7_bgu_rgb_dn-r5_bgu_rgb ssim_gt: n=30 mean diff +0.0287  frac>0 0.70  wilcoxon p=6.0e-05
+x8 r7_bgu_rgb_dn-r5_bgu_rgb lpips_gt: n=30 mean diff -0.0278  frac>0 0.03  wilcoxon p=6.9e-05
+x2 r5 vs r4_tile512 psnr_teacher: r5 better on 29/30
+x4 r5 vs r4_tile512 psnr_teacher: r5 better on 28/30
+x8 r5 vs r4_tile512 psnr_teacher: r5 better on 27/30

@@ -1,0 +1,3 @@
+timestamp,set,n,psnr,ssim,lpips,mean_time_s,config
+2026-10-14 10:38:59,lolv2_real,100,23.8884,0.8656,0.122,0.238,ckpt=lolv2_real_bestpsnr gated=False gated2=True alpha=0.8 alpha_s=1.3 gamma=1.0 use_GT_mean=False device=mps
+2026-10-14 10:39:38,lolv2_real,100,27.9543,0.8828,0.1157,0.235,ckpt=lolv2_real_bestpsnr gated=False gated2=True alpha=0.8 alpha_s=1.3 gamma=1.0 use_GT_mean=True device=mps

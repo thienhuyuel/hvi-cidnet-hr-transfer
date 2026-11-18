@@ -1,0 +1,7 @@
+timestamp,input,h,w,mpix,device,mode,param,status,time_net_s,time_transfer_s,time_total_s,peak_rss_gb,mps_driver_gb,error
+2026-10-15 10:22:57,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,2688,4032,10.84,mps,lowres_rgb,8,ok,1.65,1.6,3.26,2.62,1.08,
+2026-10-15 10:23:03,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,2688,4032,10.84,mps,lowres_hvi,8,ok,1.51,6.98,8.49,2.8,2.33,
+2026-10-15 10:23:13,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,2688,4032,10.84,mps,lowres_rgb,4,ok,1.72,2.17,3.89,4.13,2.1,
+2026-10-15 10:23:19,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,2688,4032,10.84,mps,lowres_hvi,4,ok,1.72,7.27,8.99,4.23,2.32,
+2026-10-15 10:23:30,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,2688,4032,10.84,mps,lowres_rgb,2,ok,3.05,10.36,13.41,6.71,6.76,
+2026-10-15 10:23:46,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,2688,4032,10.84,mps,lowres_hvi,2,ok,2.73,15.93,18.66,7.85,7.0,

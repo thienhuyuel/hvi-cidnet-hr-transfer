@@ -1,0 +1,6 @@
+timestamp,device,weights,input,src_size,full_long_edge,denom,h,w,mpix,status,time_s,time_warm_s,peak_rss_gb,mps_driver_gb,mps_alloc_gb,error
+2026-10-14 11:45:01,mps,weights/LOLv2_real/best_PSNR.pth,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,600x400,4032,16,168,252,0.042,ok,1.134,,0.465,0.144,0.008,
+2026-10-14 11:45:04,mps,weights/LOLv2_real/best_PSNR.pth,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,600x400,4032,8,336,504,0.169,ok,1.203,,0.468,1.081,0.015,
+2026-10-14 11:45:06,mps,weights/LOLv2_real/best_PSNR.pth,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,600x400,4032,4,672,1008,0.677,ok,1.381,,0.488,2.103,0.038,
+2026-10-14 11:45:09,mps,weights/LOLv2_real/best_PSNR.pth,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,600x400,4032,2,1344,2016,2.71,ok,2.33,,0.587,6.89,0.083,
+2026-10-14 11:45:13,mps,weights/LOLv2_real/best_PSNR.pth,../Dataset/LOL-v2/Real_captured/Test/Low/low00690.png,600x400,4032,1,2688,4032,10.838,ok,39.616,,0.866,25.476,0.25,

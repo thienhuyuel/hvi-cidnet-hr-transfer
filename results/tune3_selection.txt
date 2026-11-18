@@ -1,0 +1,14 @@
+== r5_bgu_rgb top 5 by mean PSNR-to-teacher (x2,x4) on train subset
+  tune3_sp2_lam1e-8_nb8_bl1                psnrT=26.666 ssimT=0.7684
+  tune3_sp2_lam1e-10_nb8_bl1               psnrT=26.665 ssimT=0.7683
+  tune3_sp2_lam1e-6_nb8_bl1                psnrT=26.665 ssimT=0.7613
+  tune3_sp4_lam1e-8_nb8_bl0                psnrT=26.655 ssimT=0.7517
+  tune3_sp4_lam1e-10_nb8_bl0               psnrT=26.654 ssimT=0.7517
+  worst (26.00955, 0.69455, 'tune3_sp8_lam1e-6_nb8_bl1')
+== r6_bgu_hvi top 5 by mean PSNR-to-teacher (x2,x4) on train subset
+  tune3_sp2_lam1e-10_nb8_bl1               psnrT=26.519 ssimT=0.7582
+  tune3_sp2_lam1e-8_nb8_bl1                psnrT=26.519 ssimT=0.7581
+  tune3_sp2_lam1e-6_nb8_bl1                psnrT=26.494 ssimT=0.7516
+  tune3_sp4_lam1e-8_nb8_bl0                psnrT=26.453 ssimT=0.7360
+  tune3_sp4_lam1e-10_nb8_bl0               psnrT=26.450 ssimT=0.7360
+  worst (25.2085, 0.6620999999999999, 'tune3_sp2_lam1e-10_nb16_bl0')
